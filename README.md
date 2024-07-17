@@ -26,4 +26,6 @@ That's it! Your static server is now running on Vercel.
 
 Now you can visit the URL that was output by the `vercel` command to see your static server in action.
 
+In my example, the URL is [https://go-static.vercel.app/image.jpg](https://go-static.vercel.app/image.jpg)
+
 ### Happy coding 🎉
